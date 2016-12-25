@@ -1,0 +1,14 @@
+{
+  "name": "euclid-gcd",
+  "version": "1.0.0",
+  "description": "Euclidean algorithm for GCD",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava ./*.test.js"
+  },
+  "author": "Anton Vasiljev",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.17.0"
+  }
+}

@@ -1,6 +1,6 @@
 exports.gcd = gcd;
 
-function gcd (...args) {
+function gcd(...args) {
   let [first, second, ...rest] = args;
   let result = gcdBinary(first, second);
   

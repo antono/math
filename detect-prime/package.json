@@ -1,0 +1,19 @@
+{
+  "name": "detect-prime",
+  "version": "1.0.0",
+  "description": "Detects prime numbers using different algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava ./*.test.js"
+  },
+  "keywords": [
+    "prime",
+    "math",
+    "number"
+  ],
+  "author": "Anton Vasiljev <antono.vasiljev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.17.0"
+  }
+}

@@ -19,7 +19,7 @@ function gcdBinary(a, b) {
   }
 
   if (values.some(x => x === 0)) {
-    return values.find(x => x !== 0)
+    return values.find(x => x !== 0);
   }
 
   while (b !== 0) {
